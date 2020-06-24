@@ -1,11 +1,27 @@
-OPTIMAL DESIGN OF A CLUSTER RANDOMISED TRIAL WITH CONTINUOUS RECRUITMENT
-AND A PROSPECTIVE BASELINE PERIOD
+This repository contains supplementary files to the following article:
 
-SUPPLEMENTARY FILES: Mata code for plotting variance of the treatment
-effect estimator against cross-over time
+Optimal design of a cluster randomised trial with continuous recruitment and a prospective baseline period
 
-Richard Hooper, Queen Mary University of London, London UK
-Andrew Copas, University College London, London UK
+Richard Hooper(1), Andrew Copas(2)
+(1) Queen Mary University of London, London, UK; (2) University College London, London, UK
+
+[This article is awaiting publication - citation details will follow]
+
+The repository comprises:
+
+Code for a Mata function which plots variance of the treatment effect estimator against cross-over time
+(Mata is a C-style language which runs in Stata (Stata Corp, College Station, Texas USA))
 
 
-[NB the article 
+
+Address for correspondence:
+
+Professor Richard Hooper
+Queen Mary University of London
+Institute of Population Health Sciences
+Yvonne Carter Building
+58 Turner Street
+Whitechapel
+London E1 2AB
+
+r.l.hooper@qmul.ac.uk
