@@ -6,7 +6,9 @@ Richard Hooper(1), Andrew Copas(2)
 
 (1) Queen Mary University of London, London, UK; (2) University College London, London, UK
 
-[This article is awaiting publication - citation details will follow]
+Clinical Trials 2021;18(2):147-157
+https://doi.org/10.1177/1740774520976564 
+
 
 The repository comprises:
 
